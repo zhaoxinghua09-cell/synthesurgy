@@ -1,7 +1,7 @@
 ---
 name: synthesurgy
 description: "Use when consolidating scattered factors into coherent structures while preserving provenance. 当需要把分散因素收拢为整体结构且保留来源完整性时使用。"
-license: ARR
+license: apache-2.0
 type: term-registration
 namespace: lgd.terms
 version: v1.1
