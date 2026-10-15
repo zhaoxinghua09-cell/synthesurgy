@@ -10,7 +10,7 @@ This repository is a **term-registration** claim in the Lifecycle Governance Doc
 - type: term-registration | namespace: lgd.terms | version: v1.1
 - registered_at: 2026-10-15
 - family: meta-layer-creation
-- license: ARR
+- license: apache-2.0
 - DOI: https://doi.org/10.5281/zenodo.23385209
 
 ## How to use this repo / 如何使用本仓
