@@ -13,6 +13,8 @@ related: [lgd-doctrine]
 
 # Synthesurgy · 梳理综合工程术
 
+![LGD score](badge.svg "LGD machine-readability score")
+
 > Term Registration Claim · Registered: 2026-10-15 ｜ 命名注册声明 · 注册日期：2026-10-15
 > System: Lifecycle Governance Doctrine (LGD) · LGD Meta-Layer Creation Family (-urgy) ｜ 所属体系：LGD 治理学 · LGD 元层创造术家族（-urgy）
 
