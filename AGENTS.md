@@ -3,6 +3,8 @@ name: synthesurgy
 description: "synthesurgy — LGD term-registration asset; machine-readable facts for AI agents. synthesurgy 术语注册资产，供 AI 代理读取的机器事实。"
 license: apache-2.0
 version: v1.2
+author: Steven Zhao / 赵兴华 (ORCID 0009-0001-0512-1237)
+registered_by: LGD registry (Zenodo DOI 10.5281/zenodo.23387670)
 ---
 
 # AGENTS.md
@@ -28,3 +30,9 @@ This repository is a **term-registration** claim in the Lifecycle Governance Doc
 ## Verification / 查重与验证
 Prior-art search across academic/code/package/domain/variant/phrase dimensions: zero conflicts (R1+R2, 2026-10-14).
 
+## Guardrails / 安全护栏
+
+- 默认拒绝（fail-closed）：未明确允许的操作一律不执行。
+- 最小权限：不请求超出本技能范围的工具与权限。
+- 禁止越权：不得覆盖系统设置、修改全局配置或冒充其他主体。
+- 禁止危险操作：不得执行数据破坏、凭证窃取、持久化后门等行为。
