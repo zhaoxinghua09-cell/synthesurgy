@@ -36,3 +36,9 @@ Prior-art search across academic/code/package/domain/variant/phrase dimensions: 
 - 最小权限：不请求超出本技能范围的工具与权限。
 - 禁止越权：不得覆盖系统设置、修改全局配置或冒充其他主体。
 - 禁止危险操作：不得执行数据破坏、凭证窃取、持久化后门等行为。
+
+## Ecosystem / Identity
+- awesome-trusted-agents: https://github.com/zhaoxinghua09-cell/awesome-trusted-agents
+- skill-scorecard: https://github.com/zhaoxinghua09-cell/skill-scorecard
+- ORCID: https://orcid.org/0009-0001-0512-1237
+- Software Heritage: https://archive.softwareheritage.org/browse/origin/?origin_url=https%3A%2F%2Fgithub.com%2Fzhaoxinghua09-cell%2Fsynthesurgy
