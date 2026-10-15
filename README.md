@@ -58,3 +58,9 @@ Theory claims ARR; future code examples Apache-2.0/MIT layered.
 - GitHub: https://github.com/zhaoxinghua09-cell/synthesurgy
 - DOI: https://doi.org/10.5281/zenodo.23385209
 - Registry index: https://github.com/zhaoxinghua09-cell/placeholdurgy
+
+## Ecosystem / 生态互链
+- [awesome-trusted-agents](https://github.com/zhaoxinghua09-cell/awesome-trusted-agents) — 可信 AI 四角度评分精选清单（Trusted AI four-angle scored list）
+- [skill-scorecard](https://github.com/zhaoxinghua09-cell/skill-scorecard) — 四角度评分引擎（Four-angle scoring engine）
+- [lgd-hub](https://github.com/zhaoxinghua09-cell/lgd-hub) — LGD 理论资产统一入口（Unified entry to LGD assets）
+- [theoriturgy](https://github.com/zhaoxinghua09-cell/theoriturgy) — LGD 三律理论本体（Core doctrine）
